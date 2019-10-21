@@ -1,6 +1,10 @@
-#SOLID principles practice
-# S - Single responsibility
-# O - Open/Closed Principle
-# L - Liskov Substitute 
-# I - Interface Segregation 
-# D - Dependency Inversion
+# SOLID principles practice
+<b>S</b> - Single responsibility
+
+<b>O</b>- Open/Closed Principle
+
+<b> L</b> - Liskov Substitute <p></p>
+ 
+ <b> I </b> - Interface Segregation <p></p>
+
+<b> D</b> - Dependency Inversion
