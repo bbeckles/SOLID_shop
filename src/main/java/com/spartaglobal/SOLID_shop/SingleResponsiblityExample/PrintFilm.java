@@ -1,4 +1,4 @@
-package com.spartaglobal.SubstitutionExample;
+package com.spartaglobal.SOLID_shop.SubstitutionExample;
 
 public class PrintFilm extends Film{
 
