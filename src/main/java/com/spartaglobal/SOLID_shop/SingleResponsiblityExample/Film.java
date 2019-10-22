@@ -1,4 +1,4 @@
-package com.spartaglobal.SOLID_shop.SubstitutionExample;
+package com.spartaglobal.SOLID_shop.SingleResponsiblityExample;
 
 public class Film {
 
